@@ -8,9 +8,10 @@ Detailed descriptions of the files found in each of the corpus can be found belo
 
 |Corpus|URL|Notes|
 |:-|:-|:-|
-|Canterbury|https://corpus.canterbury.ac.nz/|Includes artificial, calgary, canterbury, large, and miscellaneous corpus|
+|Canterbury|https://corpus.canterbury.ac.nz/|Includes artificial, calgary, canterbury, large, and miscellaneous corpus.|
 |Silesia|http://sun.aei.polsl.pl/~sdeor/index.php?page=silesia||
 |Snappy|https://github.com/google/snappy|Test data with some duplicates removed that were present in other corpus.|
+|Neuro|https://github.com/neurolabusc/zlib-bench|NIfTI format brain images.|
 
 ### License
 
