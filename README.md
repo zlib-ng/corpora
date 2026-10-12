@@ -23,35 +23,35 @@ common byte share.
 
 #### artificial
 
-![artificial corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/artificial.svg)
+![artificial corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/artificial.svg)
 
 #### calgary
 
-![calgary corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/calgary.svg)
+![calgary corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/calgary.svg)
 
 #### canterbury
 
-![canterbury corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/canterbury.svg)
+![canterbury corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/canterbury.svg)
 
 #### large
 
-![large corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/large.svg)
+![large corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/large.svg)
 
 #### miscellaneous
 
-![miscellaneous corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/miscellaneous.svg)
+![miscellaneous corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/miscellaneous.svg)
 
 #### neuro
 
-![neuro corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/neuro.svg)
+![neuro corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/neuro.svg)
 
 #### silesia
 
-![silesia corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/silesia.svg)
+![silesia corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/silesia.svg)
 
 #### snappy
 
-![snappy corpus profile](https://raw.githubusercontent.com/nmoinvaz/codecbench/main/profiles/snappy.svg)
+![snappy corpus profile](https://raw.githubusercontent.com/zlib-ng/codecbench/main/profiles/snappy.svg)
 
 ### License
 
